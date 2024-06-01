@@ -1,11 +1,11 @@
 @font-face {
     font-family: Montserrat;
-    src: url('/fonts/Montserrat/static/Montserrat-Regular.ttf')  format('truetype');
+    src: url('fonts/Montserrat/static/Montserrat-Regular.ttf')  format('truetype');
 }
 
 @font-face {
     font-family: MontserratX;
-    src: url('/fonts/Montserrat/static/Montserrat-ExtraBold.ttf')  format('truetype');
+    src: url('fonts/Montserrat/static/Montserrat-ExtraBold.ttf')  format('truetype');
 }
 
 :root {
